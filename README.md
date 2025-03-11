@@ -1,10 +1,10 @@
 Airbnb Dataset Analysis using PandasSQL
 
-Project Overview
+>Project Overview
 
 This project focuses on conducting Exploratory Data Analysis (EDA) on an Airbnb dataset using PandasSQL, allowing SQL queries to be executed within Pandas. The goal is to analyze key trends in Airbnb listings, extract meaningful insights, and optimize rental strategies.
 
-Dataset Overview
+>Dataset Overview
 
 The dataset includes details such as:
 
@@ -16,11 +16,11 @@ Property Details – Room type, minimum nights, availability
 
 Pricing & Popularity Metrics – Price per night, number of reviews, and review frequency
 
-Problem Statement
+>Problem Statement
 
 The objective of this EDA project is to analyze Airbnb listings and identify patterns affecting rental performance and pricing. The insights will help in optimizing pricing strategies, property availability, and customer engagement.
 
-Business Objective
+?Business Objective
 
 To help Airbnb hosts maximize their revenue by identifying the key factors that influence rental prices and property performance. The insights will assist in:
 
@@ -30,7 +30,7 @@ Identifying high-demand neighborhoods
 
 Improving property availability and guest experience
 
-Key Insights from the Analysis
+>Key Insights from the Analysis
 
 1. Pricing Trends & Optimization
 
@@ -50,7 +50,7 @@ Properties with more reviews are more frequently booked.
 
 Hosts with consistent positive reviews see better customer retention.
 
-Recommendations for Business Growth
+>Recommendations for Business Growth
 
 ✅ Optimize Pricing Strategy
 
@@ -76,11 +76,11 @@ Offering a mix of entire homes, private rooms, and shared spaces increases audie
 
 Implement seasonal promotions to maintain occupancy during off-peak periods.
 
-Conclusion
+>Conclusion
 
 This project successfully analyzed Airbnb listings to uncover key trends in pricing, availability, and guest preferences. By leveraging these insights, hosts can enhance their rental strategies, increase revenue, and improve guest satisfaction, contributing to long-term business growth.
 
-Technologies Used
+>Technologies Used
 
 PandasSQL for SQL-based analysis within Pandas
 
@@ -88,7 +88,7 @@ Matplotlib & Seaborn for data visualization
 
 Python for data wrangling and processing
 
-Author
+>Author
 
 Shivam kumar – Data Analyst specializing in exploratory data analysis and business intelligence.
 
