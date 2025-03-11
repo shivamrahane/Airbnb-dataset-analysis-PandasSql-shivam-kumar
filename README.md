@@ -20,7 +20,7 @@ Pricing & Popularity Metrics – Price per night, number of reviews, and review 
 
 The objective of this EDA project is to analyze Airbnb listings and identify patterns affecting rental performance and pricing. The insights will help in optimizing pricing strategies, property availability, and customer engagement.
 
-?Business Objective
+>Business Objective
 
 To help Airbnb hosts maximize their revenue by identifying the key factors that influence rental prices and property performance. The insights will assist in:
 
